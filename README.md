@@ -1,4 +1,4 @@
-![GitHub Banner](A_digital_2D_welcome_banner_for_Mithun_A_R's_GitHu.png)
+![GitHub Banner](banner.png.png)
 
 # 👋 Hey there, I’m Mithun A R!
 
