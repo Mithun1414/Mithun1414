@@ -1,3 +1,5 @@
+![GitHub Banner](A_digital_2D_welcome_banner_for_Mithun_A_R's_GitHu.png)
+
 # 👋 Hey there, I’m Mithun A R!
 
 🎓 **B.Tech – Artificial Intelligence & Data Science** (2022–2026)  
