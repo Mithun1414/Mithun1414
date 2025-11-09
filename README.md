@@ -16,7 +16,7 @@
 ---
 
 ## 🎯 Areas of Interest
-- Cyber Security  
+- Machine Learning 
 - Data Analytics  
 
 ---
