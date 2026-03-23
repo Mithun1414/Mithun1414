@@ -22,14 +22,13 @@
 ---
 
 ## 🚀 Highlight Projects
-**Hand Gesture Recognition Model:
+🔹Hand Gesture Recognition Model:
 
-👉 CNN-based deep learning model to recognize and classify hand gestures for human–computer interaction.
+ CNN-based deep learning model to recognize and classify hand gestures for human–computer interaction.
 
-**Defence Aspirant Guidance System:
+🔹Defence Aspirant Guidance System
 
-👉 Centralized platform to help defence aspirants explore career paths and automatically check eligibility.
----
+ Centralized platform to help defence aspirants explore career paths and automatically check eligibility.
 
 ## 🏅 Achievements & Roles
 - Symposium Coordinator (2024–2025)
