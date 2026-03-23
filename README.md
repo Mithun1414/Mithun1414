@@ -11,27 +11,30 @@
 ## 🔧 Tools & Technologies
 - Python  
 - SQL  
-- HTML, CSS  
+- HTML, CSS,Java Script,React
 
 ---
 
 ## 🎯 Areas of Interest
 - Machine Learning 
-- Data Analytics  
+- Web Development  
 
 ---
 
 ## 🚀 Highlight Projects
-- **Ethical Investigation of AI in Healthcare**  
-  🩺 Machine Learning model to analyze health conditions using parameters like blood pressure, sugar level, etc.
+**Hand Gesture Recognition Model:
 
-- **Finance Management App**  
-  📱 Developed using Kotlin to manage expenses, set spending limits, and track budgets with a user-friendly interface.
+👉 CNN-based deep learning model to recognize and classify hand gestures for human–computer interaction.
 
+**Defence Aspirant Guidance System:
+
+👉 Centralized platform to help defence aspirants explore career paths and automatically check eligibility.
 ---
 
 ## 🏅 Achievements & Roles
-- Symposium Coordinator (2024–2025)  
+- Symposium Coordinator (2024–2025)
+
+## Intenship 
 - Completed Python & Machine Learning internships  
 - Workshops attended on AI development and Machine Learning applications  
 
@@ -39,13 +42,14 @@
 
 ## 📜 Certifications
 - **Project Development using Paradigms** – IDM Tech Park  
-- **React JS** – Skill Tamil Nadu  
+- **React JS** – Skill Tamil Nadu
+- **Programming in Python Beginner** - Infosys springboard  
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 - Build impactful and user-centric web projects  
-- Explore deeper into cybersecurity and AI applications  
+- Explore deeper into Machine Learning and AI applications  
 
 ---
 
